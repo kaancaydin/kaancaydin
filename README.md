@@ -1,5 +1,5 @@
 # 💫 About Me:
-### 👋 Hi there! I'm Kaan<br><br>🎓 I am currently studying Management Information Systems.  <br>💻 I’m learning and developing projects using JavaScript and other programming languages.  <br>📚 I have knowledge in various areas of software development including front-end, back-end, and databases.  <br>🚀 I'm passionate about creating useful applications and improving my skills every day.  <br>🌱 Currently focused on web development and working on real-world projects.<br><br>Let's connect and build something great!<br>
+### 👋 Hi there! I'm Kaan<br><br>🎓 I am graduated Management Information Systems.  <br>💻 I’m learning and developing projects using JavaScript and other programming languages.  <br>📚 I have knowledge in various areas of software development including front-end, back-end, and databases.  <br>🚀 I'm passionate about creating useful applications and improving my skills every day.  <br>🌱 Currently focused on web development and working on real-world projects.<br><br>Let's connect and build something great!<br>
 
 
 # 💻 Tech Stack:
